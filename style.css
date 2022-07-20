@@ -1,0 +1,20 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+}
+#container {
+  widows: 1000px;
+  height: 550px;
+  background-image: url("/back.jpg");
+
+  margin: auto;
+}
+#calculator {
+  width: 320px;
+  background-color: wheat;
+  height: 520px;
+  margin: 0 auto;
+  position: relative;
+  top: 20px;
+  border-radius: 5px;
+}
